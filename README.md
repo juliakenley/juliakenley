@@ -1,7 +1,35 @@
 ## Hi there 👋
 
-<!--
-**juliakenley/juliakenley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julia Kenley! I'm an M.S. Biostatistics student at Arizona State University interested in
+applying statistical methods to healthcare and biomedical research.
+
+## Featured Projects
+[add projects here]
+
+## I'm currently learning...
+- Statistical programming in R and Python
+- Biostatistical methods and statistical modeling
+- Healthcare and research data
+- Reproducible data analysis
+
+## Technical Skills
+R | Python | R Markdown | Git/GitHub | Statistical Modeling |
+Data Visualization | Data Management
+
+## I'm looking for help with...
+- Exploring careers in the biostatistics field
+- Gaining experience in research
+- Opportunities to apply what I am learning in class to real world problems
+- Ways to connect my exercise science backgrounds with my biostatistics skills
+
+## Connect with me!
+juliakokomo@gmail.com | https://www.linkedin.com/in/julia-kenley
+
+## I little about me...
+- I love any way to spend time outside
+- I love weight lifting or any kind of exercise
+- My favorite foods are candy and vegetables 
+
 
 Here are some ideas to get you started:
 
