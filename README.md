@@ -6,9 +6,8 @@ applying statistical methods to healthcare and biomedical research.
 ## I'm currently learning...
 - Statistical programming in R and Python
 - Biostatistical methods and statistical modeling
-- Healthcare and research data
-- Reproducible data analysis
-- 
+- Healthcare and research data analytics
+  
 ## Featured Projects
 [add projects here]
 
@@ -24,11 +23,11 @@ Data Visualization | Data Management
 
 ## A little about me...
 - I love any way to spend time outside
-- I love weight lifting or any kind of exercise
+- I love weight lifting and any other kind of exercise
 - My favorite foods are candy and vegetables 
 
 ## Connect with me!
-juliakokomo@gmail.com | https://www.linkedin.com/in/julia-kenley
+juliakokomo@gmail.com or jkkenley@asu.edu | https://www.linkedin.com/in/julia-kenley
 
 
 Here are some ideas to get you started:
