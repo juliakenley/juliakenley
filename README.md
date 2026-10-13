@@ -12,8 +12,9 @@ applying statistical methods to healthcare and biomedical research.
 [add projects here]
 
 ## Technical Skills
-R | Python | R Markdown | Git/GitHub | Statistical Modeling |
-Data Visualization | Data Management
+Programming & Tools: R · Python · R Markdown · Git/GitHub · JMP · MATLAB
+Statistical Methods: Linear & Logistic Regression · Longitudinal Data Analysis · Mixed-Effects Models · Survival Analysis · Experimental Design
+Data Analysis: Data Cleaning · Exploratory Data Analysis · Statistical Inference · Data Visualization
 
 ## I'm looking for help with...
 - Exploring careers in the biostatistics field
